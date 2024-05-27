@@ -8,4 +8,4 @@ The program to be interpreted is passed as a list at the end of bnl.rkt. The BNF
 Bruno's Nonsense Language.
 
 # What's the point of this repository?
-Honestly, I'm not sure. Maybe it will help some dummy like me in the future.
+I dunno. Maybe it will help some dummy like me in the future.
